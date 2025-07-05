@@ -1,4 +1,4 @@
-package fun.tokyomc.ui.theme
+package com.tokyomc.shot.ui.theme
 
 import android.app.Activity
 import android.os.Build

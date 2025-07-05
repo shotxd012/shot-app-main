@@ -12,7 +12,7 @@
         android:supportsRtl="true"
 >
         <activity
-            android:name="fun.tokyomc.MainActivity"
+            android:name="com.tokyomc.shot.MainActivity"
             android:exported="true"
     >
             <intent-filter>

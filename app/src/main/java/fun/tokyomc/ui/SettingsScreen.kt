@@ -1,4 +1,4 @@
-package fun.tokyomc.ui
+package com.tokyomc.shot.ui
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.Button
@@ -11,7 +11,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import fun.tokyomc.ui.theme.ShotAppTheme
+import com.tokyomc.shot.ui.theme.ShotAppTheme
 
 @Composable
 fun SettingsScreen(navController: NavController) {

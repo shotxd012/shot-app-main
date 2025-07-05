@@ -1,4 +1,4 @@
-package fun.tokyomc.ui.theme
+package com.tokyomc.shot.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package fun.tokyomc
+package com.tokyomc.shot
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,9 +11,9 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import fun.tokyomc.ui.BankBalanceScreen
-import fun.tokyomc.ui.SettingsScreen
-import fun.tokyomc.ui.theme.ShotAppTheme
+import com.tokyomc.shot.ui.BankBalanceScreen
+import com.tokyomc.shot.ui.SettingsScreen
+import com.tokyomc.shot.ui.theme.ShotAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

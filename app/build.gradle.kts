@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "fun.tokyomc"
+    namespace = "com.tokyomc.shot"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "fun.tokyomc"
+        applicationId = "com.tokyomc.shot"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
